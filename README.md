@@ -51,4 +51,4 @@ Emulation of a simple file system
 
 ## Run
 
-`$ ku_fs <imput_file>`
+`$ fs <input_file>`
