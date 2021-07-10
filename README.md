@@ -2,7 +2,7 @@
 
 Implementation of File System at application level
 
----
+</br>
 
 ## Introduction
 
@@ -11,7 +11,7 @@ Emulation of a simple file system
 - Block size: 4KB
 - inode size: 256B
 
----
+</br>
 
 ## Overall of Disk
 
@@ -23,7 +23,7 @@ Emulation of a simple file system
 - iblock: Inodes
 - D: Data region
 
----
+</br>
 
 ## Data structures
 
@@ -47,7 +47,7 @@ Emulation of a simple file system
 
 ![root_dir_freelist](./images/root_dir_freelist.PNG)
 
----
+</br>
 
 ## Run
 
